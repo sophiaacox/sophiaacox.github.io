@@ -1,0 +1,18 @@
+body {
+  background-color:Lavender;
+  margin:50px 50px 50px 50px;
+}
+
+h1 {
+  font-family:"Times New Roman", Times, Serif;
+  Text-align:center;
+}
+
+p {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size: 20px;
+ }
+ul {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  font-size: 20px;
+}
